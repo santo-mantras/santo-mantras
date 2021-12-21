@@ -2,10 +2,10 @@
 
 
 
-- I'm a **QA Engineer** who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+- I'm a **QA Engineer with 3+ Years of Experience**  who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
 - Currently Pursuing **BSc Online Degree in Data Science and Programming** from IIT Madras.
-- I like **Tea and Mythology**, Its a Great Blend !! Try it out ;)
+- I like **Tea and Mythological Stories**, Its a Great Blend !! Try it out 😉
 
 # TECH STACK
 ## Languages (I have been excelling in)
