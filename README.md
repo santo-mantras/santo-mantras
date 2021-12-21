@@ -26,7 +26,7 @@
 
 # Support or Contact
 
-Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](https://www.santosh.verma01073@gmail.com)
+Please feel free to get in touch, I'll be happy to help ✌️ [Email](https://www.santosh.verma01073@gmail.com)
 
 # Languages Used 
 
