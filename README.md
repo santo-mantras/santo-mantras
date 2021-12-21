@@ -22,7 +22,7 @@
   - Red Hat Certified System Administrator (RHCSA)
   - Red Hat Certified Engineer (RHCE)
 
-## 👉 [Check out my Data Science Project Portfolio](https://santo-mantras.github.io/websiteportfolio/)
+## 👉 [Check out my Data Science Project Portfolio](http://santosh107verma.me/websiteportfolio/)
 
 # Support or Contact
 
