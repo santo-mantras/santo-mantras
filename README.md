@@ -13,14 +13,11 @@
   - 🐍 Python
   - 🤖 Bash
   - 🦾 Power Shell
-  - 📦 Node.JS (Beginner)
   
 # Certification
   
-  - Data Science and Programming Foundations IITM Bsc
-  - Azure Certified DevOps Engineer Expert 
-  - Red Hat Certified System Administrator (RHCSA)
-  - Red Hat Certified Engineer (RHCE)
+  - Data Science and Programming Foundations from IIT Madaras
+  - Diploma in Data Science from IIT Madras
 
 ## 👉 [Check out my Data Science Project Portfolio](http://santosh107verma.me/websiteportfolio/)
 
