@@ -19,8 +19,6 @@
   - Data Science and Programming Foundations from IIT Madaras
   - Diploma in Data Science from IIT Madras
 
-## 👉 [Check out my Data Science Project Portfolio](http://santosh107verma.me/websiteportfolio/)
-
 # Support or Contact
 
 Please feel free to get in touch, I'll be happy to help ✌️ [Email](https://www.santosh.verma01073@gmail.com)
