@@ -4,25 +4,30 @@
 
 - I'm a **QA Engineer with 3+ Years of Experience**  who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - My main goal is to improve my professional skills while recreating & redesigning projects in world of Data Science.
-- Currently Pursuing **BSc Online Degree in Data Science and Programming** from IIT Madras.
+- Currently Pursuing **BS Degree in Data Science and Application** from IIT Madras.
 - I like **Tea and Mythological Stories**, Its a Great Blend !! Try it out 😉
 
 # TECH STACK
 ## Languages (I have been excelling in)
 
   - 🐍 Python
-  - 🤖 Bash
-  - 🦾 Postgre SQL
+  - 🤖 SQL
+  - 🦾 Tableau
+  - 🤖 ML Libraies
+  - Javascript
+  - Vue
   
 # Certification
   
-  - Data Science and Programming Foundations from IIT Madaras
-  - Diploma in Data Science from IIT Madras
-  - Cricket Analytics using Python from Mad About Sports in association with Rajasthan Royals 
+  - Google Cloud Data Analytics
+  - IBM Data Science Professional
+  - Tableau Basics 
+  - Natural Language Processing from NPTEL 
+  - Cricket Analytics using Python from Mad About Sports  
 
 # Support or Contact
 
-Please feel free to get in touch, I'll be happy to help ✌️ [Email](https://www.santosh.verma107@gmail.com)
+Please feel free to get in touch, I'll be happy to help ✌️ [Email](https://www.santosh.verma01073@gmail.com)
 
 
 <!---
