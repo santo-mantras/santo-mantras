@@ -1,36 +1,33 @@
-# Hello World Namaste !! 😃 👇 Check out my Git Hub Profile 👇
+# Hi, I'm Santosh Verma 👋
 
+MLOps and AI Engineer specializing in building, containerizing, and deploying production-grade Machine Learning and Generative AI systems. Currently pursuing an M.Tech in Data Science at IIT Madras.
 
+- 🤖 **Specialties**: Multi-Agent Orchestration (LangGraph), RAG Pipelines, GPU Infrastructure & Local LLM Hosting.
+- ☁️ **DevOps & Cloud**: AWS (EC2 G5, ECS Fargate, Lambda), CI/CD (GitLab, GitHub Actions), Traefik, Docker, Podman.
+- 🍵 **Interests**: Mythology, Space exploration, Basketball, and Tea.
 
-- I'm a **QA Engineer with 3+ Years of Experience**  who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
-- My main goal is to improve my professional skills while recreating & redesigning projects in world of Data Science.
-- Currently Pursuing **BS Degree in Data Science and Application** from IIT Madras.
-- I like **Tea and Mythological Stories**, Its a Great Blend !! Try it out 😉
+---
 
-# TECH STACK
-## Languages (I have been excelling in)
+## 🚀 Featured Applications
 
-  - 🐍 Python
-  - 🤖 SQL
-  - 🦾 Tableau
-  - 🤖 ML Libraies
-  - Javascript
-  - Vue
-  
-# Certification
-  
-  - Google Cloud Data Analytics
-  - IBM Data Science Professional
-  - Tableau Basics 
-  - Natural Language Processing from NPTEL 
-  - Cricket Analytics using Python from Mad About Sports  
+### ⚖️ [Nyaya Agent — AI-Powered Indian Legal Assistant](https://github.com/santo-mantras/Nyaya-Agent)
+*Stateful multi-agent orchestrator for legal research, compliance auditing, and automated notice drafting.*
+- **Tech Stack**: LangGraph, Google GenAI SDK (Gemini), FastAPI, ChromaDB, InLegalBERT, SQLite, Vanilla HTML/CSS/JS.
+- **Hosting**: Hugging Face Spaces (Stable & Beta).
+- **Duration**: Feb 2026 – May 2026
+- **Highlights**: Awarded **Certificate of Excellence** at the Generative AI Workshop. Built-in RAGAS evaluation framework and SQLite-based rolling context memory.
 
-# Support or Contact
+### 🩸 [CareMate AI — Thalassemia Care Assistant](https://github.com/santo-mantras/Thal-Agent)
+*AI healthcare assistant designed to empower Thalassemia patients and assist doctors with clinical insights.*
+- **Tech Stack**: Flutter Web, FastAPI, SQLite, Qdrant Vector DB, Gemini (Flash/Pro).
+- **Hosting**: Hugging Face Spaces.
+- **Highlights**: Dual-persona portals, automated medical lab report parsing (OCR via Gemini Vision), and interactive health tracking timeline.
 
-Please feel free to get in touch, I'll be happy to help ✌️ [Email](https://www.santosh.verma01073@gmail.com)
+---
 
+## 🛠️ Technical Stack
 
-<!---
-santo-mantras/santo-mantras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages**: Python, SQL, Dart, Bash
+- **ML/AI Frameworks**: LangChain, LangGraph, RAGAS, Hugging Face, PyTorch
+- **Cloud & DevOps**: AWS (ALB/NLB, RDS, ECS, Lambda), GitLab CI/CD, Nginx, Traefik, Docker, Podman, Terraform, Uptime Kuma, Dozzle
+- **Databases**: SQLite, Qdrant, ChromaDB, Postgres
