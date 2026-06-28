@@ -10,6 +10,12 @@ MLOps and AI Engineer specializing in building, containerizing, and deploying pr
 
 ## 🚀 Featured Applications
 
+### 🛰️ [Ritu AI — Regional Climate Digital Twin](https://github.com/santo-mantras/ritu-ai)
+*AI-powered meteorological dashboard and predictive digital twin focused on Maharashtra, Goa, and Karnataka.*
+- **Tech Stack**: React, Vite, Deck.gl, Tailwind CSS, Python, Open-Meteo, Google Gemini.
+- **Hosting**: Hugging Face Spaces.
+- **Highlights**: Predictive "What-If" Simulation Lab, automated heat pocket detection, contextual AI chatbot integration, and 3D interactive maps with 60fps animations.
+
 ### ⚖️ [Nyaya Agent — AI-Powered Indian Legal Assistant](https://github.com/santo-mantras/Nyaya-Agent)
 *Stateful multi-agent orchestrator for legal research, compliance auditing, and automated notice drafting.*
 - **Tech Stack**: LangGraph, Google GenAI SDK (Gemini), FastAPI, ChromaDB, InLegalBERT, SQLite, Vanilla HTML/CSS/JS.
